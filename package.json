@@ -1,0 +1,13 @@
+{
+  "name": "yuritodo-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "7.4.x",
+    "@hapi/hapi": "18.3.x",
+    "@hapi/joi": "15.0.x",
+    "ioredis": "4.9.x"
+  }
+}
